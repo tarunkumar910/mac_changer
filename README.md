@@ -22,7 +22,7 @@ This tool can help enhance privacy, perform penetration testing, or bypass netwo
 ## Screenshots
 
 <h1 align="left">
-  <img src="image.png" alt="MAC Changer" width="700px"></a>
+  <img src="Screenshot_2025-01-21_16_08_25.png" alt="MAC Changer" width="700px"></a>
   <br>
 </h1>
 
